@@ -1,6 +1,8 @@
-# resume-vue
+# Vue-Resume
 
-This template should help get you started developing with Vue 3 in Vite.
+https://anatolyrrr.github.io/Vue-Resume/
+
+Project on Vue options api for compiling a resume (functionality will be updated)
 
 ## Recommended IDE Setup
 
